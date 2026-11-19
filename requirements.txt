@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.1
+psycopg2-binary==2.9.9
+ultralytics==8.2.30
+mediapipe==0.10.14
+opencv-python==4.9.0.80
+numpy
+scipy
+Flask-SocketIO==5.3.6
+eventlet==0.36.1
